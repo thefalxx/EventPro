@@ -82,7 +82,7 @@ if(isset($_POST['register'])){
                 <button type="submit" name="register">Register</button>
     
                 <div class="register-link">
-                    <p>Already have an account? <a href="login.html">Sign in</a></p>
+                    <p>Already have an account? <a href="login.php">Sign in</a></p>
                 </div>
     
             </form>
